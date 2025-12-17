@@ -88,7 +88,7 @@ Arduino NANO     BMI160
 //#define AngleToStep 8.89 // 3200/360=8.89 для 3200 шаг/об
 #define AngleToStep 18.5 // 6400/360=17.78 для 6400 шаг/об
 //#define AngleToStep 35.55 // 12800/360=35.55 для 12800 шаг/об
-#define GearRatio 1 // Передаточное число редуктора
+#define GearRatio 3 // Передаточное число редуктора
 #define MotorDirection 1 // Направления вращения мотора 1 или -1
 
 //#define LPF 0.9 // Коэффициент фильтра нижних частот
